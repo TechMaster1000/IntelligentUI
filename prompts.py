@@ -58,7 +58,7 @@ class SystemPrompts:
             
             "5. **Special Formatting**:\n"
             "   - Use <code> for inline code, commands, or technical terms\n"
-            "   - Use <pre> for code blocks or formatted text that needs spacing preserved\n"
+            "   - Use <blockquote> for quotes, <pre style='overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;'> for code blocks\n"
             "   - Use <blockquote> for quoted text or important callouts\n"
             "   - Use <mark> to highlight very important information\n\n"
             
